@@ -3,5 +3,6 @@
 ## 数据集
 ![image](https://user-images.githubusercontent.com/77225753/144349983-8c62f6f1-ad5f-4baf-8d5b-9879ce42293b.png)
 ## 分类器原理
-![](http://latex.codecogs.com/gif.latex?\\sigma=\sqrt{\frac{1}{n}{\sum_{k=1}^n(x_i-\bar{x})^2}})
+![MommyTalk1638414809344](https://user-images.githubusercontent.com/77225753/144351219-f1d4b522-283d-4add-b85f-9bb55adef4e7.jpg)
+
 
