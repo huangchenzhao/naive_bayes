@@ -1,7 +1,7 @@
 # 基于朴素贝叶斯分类器对新闻分类
-通过实现基于多项式朴素贝叶斯的文本主题分类，给出了十折交叉验证宏平均和微平均的分类Accuracy、Precision、Recall和F1-Value
+通过实现基于多项式朴素贝叶斯的新闻主题分类，给出了十折交叉验证宏平均和微平均的分类Accuracy、Precision、Recall和F1-Value
 ## 数据集
-![image](https://user-images.githubusercontent.com/77225753/144349983-8c62f6f1-ad5f-4baf-8d5b-9879ce42293b.png)
+![image](https://user-images.githubusercontent.com/77225753/144351999-d4c2f6fe-2fa1-4703-96e5-ccc89733d8d6.png)
 ## 分类器原理
 ### 假设有这么一句话，要判断是否是垃圾邮件
 “我司可办理正规发票（保真）17%增值税发票点数优惠！”
