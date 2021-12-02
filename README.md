@@ -1,4 +1,4 @@
-# 基于朴素贝叶斯分类器对新闻分类
+# 基于朴素贝叶斯分类器的新闻分类
 通过实现基于多项式朴素贝叶斯的新闻主题分类，给出了十折交叉验证宏平均和微平均的分类Accuracy、Precision、Recall和F1-Value
 ## 数据集
 ![image](https://user-images.githubusercontent.com/77225753/144351999-d4c2f6fe-2fa1-4703-96e5-ccc89733d8d6.png)
